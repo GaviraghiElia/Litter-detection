@@ -1,5 +1,3 @@
-# In-depth study
-
 ## Folder Structure 
 
 ```
